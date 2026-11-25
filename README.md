@@ -225,7 +225,7 @@ python -m pytest tests/
 
 ## 👨‍💻 Author
 
-**Divyanshu Pal, **
-**Pranjal Nikum, **
-**Akshat Singh, **
-**Pranay Kochar**
+Divyanshu Pal,
+Pranjal Nikum,
+Akshat Singh & 
+Pranay Kochar
